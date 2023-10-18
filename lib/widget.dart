@@ -7,7 +7,7 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter Layouts Example'),
+        title: Text('Layout Examples'),
       ),
       body: Center(
         child: Align(
