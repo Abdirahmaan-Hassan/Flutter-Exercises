@@ -7,7 +7,7 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Layout Examples'),
+        title: Text('Layouts Examples'),
       ),
       body: Center(
         child: Align(
